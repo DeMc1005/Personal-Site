@@ -30,7 +30,7 @@ body{
 .testimonial-image{border-radius:100%;
 }
 #no5{
-    background: #131212;text-align: center;padding: 3% 3% 12.7%;
+    background: #131212;text-align: center;padding: 3% 3% 15.7%;
 }
 #no5 h1{
     color: #ECB365;
@@ -62,7 +62,7 @@ input[type="text"]{
 }
 @media(max-width:558px){
     #no5{
-        background: #131212;text-align: center;padding: 3% 3% 18.7%;
+        background: #131212;text-align: center;padding: 3% 3% 20.7%;
     }
 }
 @media(max-width:416px){
