@@ -1,0 +1,75 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.8;
+}
+h2{
+    font-size: 1.2rem;color: wheat;width: 80%;margin: 0 auto;
+    font-family: 'Alatsi', sans-serif;margin-top: 25px;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x:hidden; 
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#no2{
+    text-align: center;background-color: #2C2E43;
+    color: white;
+}
+.carousel-item{
+    padding: 3% 12%;
+}
+.testimonial-image{
+    width: 150px;
+    margin: 20px;
+}
+.testimonial-image{border-radius:100%;
+}
+#no5{
+    background: #131212;text-align: center;padding: 3% 3% 12.7%;
+}
+#no5 h1{
+    color: #ECB365;
+}
+#no2 h3{
+    font-family: 'Lobster', cursive;
+    font-size: 2.2rem;color: #ECB365;
+}
+#no5 button{
+    padding: 100px 30px 100px;float: left;
+}
+#no5 textarea{
+    width: 45%;height: 230px;border-radius: 4px;
+    resize: vertical;display: inline-block;
+}
+.user-pro{
+    background: none;width: 400px;float: right;height: 230px;
+    border-left: 2px solid rgb(185, 29, 29);
+}
+.user-pro input{
+    margin: 15px;width: 295px;
+    margin-top: 45px;
+}
+input[type="email"]{
+    text-align: center;
+}
+input[type="text"]{
+    text-align: center;
+}
+@media(max-width:558px){
+    #no5{
+        background: #131212;text-align: center;padding: 3% 3% 18.7%;
+    }
+}
+@media(max-width:416px){
+    h1{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        line-height: 1.8;
+    }
+
+}
